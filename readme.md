@@ -1,3 +1,3 @@
-<img src="./readme-github.gif" />
+## 👋 Hi there, I'm **Lucas Batista** 👨‍💻
 
-👋 Hi there, my name is **Lucas Batista** 👨‍💻
+<img src="./readme-github.gif" />
