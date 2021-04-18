@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm **Lucas Batista** 👨‍💻
-
 <img src="./readme-github.gif" />
+
+## 👋 Hi there, I'm **Lucas Batista** 👨‍💻
 
 Front-end developer with knowledge in HTML5 / CSS3, Javascript, React JS, Redux, SEO. Learning new concepts and improving my knowledge is what motivates me.
 
