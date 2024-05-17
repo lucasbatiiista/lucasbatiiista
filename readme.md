@@ -4,7 +4,7 @@
 
 I am a Software Developer, passionate about technology from an early age. Currently residing in Santa Catarina, Brazil, dedicated to creating impactful and innovative products that improve people's lives.
 
-My commitment to continuous learning and staying abreast of new technologies ensures that I bring the latest and most effective solutions to the projects I undertake. I thrive in dynamic environments where I can collaborate with others and contribute to meaningful advancements.
+My commitment to continuous learning and staying abreast of new technologies ensures that I bring the latest and most effective solutions to the projects I undertake. I thrive in dynamic environments where I can collaborate with others and contribute to meaningful advancements 🚀
 
 ### Find me around the web: <br/>
 
